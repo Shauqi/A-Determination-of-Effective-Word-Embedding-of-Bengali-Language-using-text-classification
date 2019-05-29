@@ -1,0 +1,2 @@
+# A-Determination-of-Effective-Word-Embedding-of-Bengali-Language-using-text-classification
+Different target Natural Language Processing (NLP) tasks demand for pretrained semantic embedding of words also having syntactic considerations. In general, these tasks are Part of Speech (PoS) tagging, Opinion Mining, Named Entity Recognition, Textual Entailment, Semantic Role Tagging, Conference Resolution etc.
