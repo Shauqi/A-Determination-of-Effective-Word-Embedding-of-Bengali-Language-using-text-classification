@@ -6,3 +6,7 @@ Steps to follow:
 2. Preprocess the dataset using https://github.com/Shauqi/A-Determination-of-Effective-Word-Embedding-of-Bengali-Language-using-text-classification/blob/master/Preprocessing%20of%20Bengali%20Text.ipynb.
 3. Convert the texts into vectors using different embedding techniques:
     1. For fasttext use 
+
+
+Miscellaneous:
+You can plot fasttext word vectors using t-SNE plot from this link: https://github.com/Shauqi/A-Determination-of-Effective-Word-Embedding-of-Bengali-Language-using-text-classification/blob/master/t-SNE%20Plot%20of%20FastText%20Embedding.ipynb
