@@ -7,6 +7,7 @@ Steps to follow:
 3. Convert the texts into vectors using different embedding techniques and classify them with different architectures:
     1. FastText + CNN - https://github.com/Shauqi/A-Determination-of-Effective-Word-Embedding-of-Bengali-Language-using-text-classification/blob/master/FastText%20%2B%20CNN.ipynb
     2. FastText + CNN + LSTM - https://github.com/Shauqi/A-Determination-of-Effective-Word-Embedding-of-Bengali-Language-using-text-classification/blob/master/FastText%20%2B%20CNN%20%2B%20LSTM.ipynb
+    3. FastText + Bi Directional LSTM - https://github.com/Shauqi/A-Determination-of-Effective-Word-Embedding-of-Bengali-Language-using-text-classification/blob/master/FastText%20%2B%20Bi-Directional%20LSTM.ipynb
 
 
 Miscellaneous:
